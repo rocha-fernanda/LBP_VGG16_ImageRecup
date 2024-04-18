@@ -4,7 +4,7 @@
 
 ### Introdução 🌟
 
-Desvende o universo das artes visuais com o projeto de Recuperação de Obras de Arte! Utilizando técnicas avançadas de processamento de imagem, exploramos características de cor e textura para identificar obras semelhantes. Parte deste projeto ganhou vida durante a disciplina "Técnicas Avançadas para Captura e Tratamento de Dados" no MBA de Ciência de Dados da USP São Carlos.
+Utilizando técnicas avançadas de processamento de imagem, exploramos características de cor e textura para identificar obras semelhantes. Parte deste projeto ganhou vida durante a disciplina "Técnicas Avançadas para Captura e Tratamento de Dados" no MBA de Ciência de Dados da USP São Carlos.
 
 ### Técnicas Utilizadas 🖌️
 
